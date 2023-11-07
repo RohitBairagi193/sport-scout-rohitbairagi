@@ -1,0 +1,17 @@
+.fix{
+  position: fixed;
+  left: 0px;
+  top: 0px;
+}
+.s{
+  position: fixed;
+  left: 0px;
+  top: 62px;
+}
+.stop{
+  position: fixed;
+  right: 5px;
+  top: 1000px;
+  
+  
+}
