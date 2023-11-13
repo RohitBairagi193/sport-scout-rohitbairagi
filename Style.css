@@ -13,7 +13,7 @@
 
 
 .fix{
-  position: sticky;
+  position: fixed;
   left: 0px;
   top: 0px;
   border-radius:30px;
@@ -21,7 +21,7 @@
 }
 
 .s{
-  position: sticky;
+  position: fixed;
   left: 0px;
   top: 62px;
   border-radius:30px;
