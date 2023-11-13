@@ -1,31 +1,38 @@
+
+body {
+  border-radius: 5px;   
+  }
+.cr {
+  border-radius: 50px;
+  border-color: gray;
+}
+table {
+  border-radius: 10px;
+  border-color: gray;
+}
+  a {
+    text-decoration: none;
+  }
+
+
 .fix{
   position: fixed;
   left: 0px;
   top: 0px;
   border-radius:30px;
+  border-color: gray;
 }
+
 .s{
   position: fixed;
   left: 0px;
   top: 62px;
   border-radius:30px;
+  border-color: gray;
 }
 .stop{
   position: fixed;
   right: 5px;
-  top:1500px;
+  top:1500px;  
   
-  
-}
-a {
- text-decoration:none;
-
-}
-.cr{
-border-radius:40px;
-
-}
-table {
-    border:1;
-    border-color:gray;
 }
