@@ -2,13 +2,13 @@
   position: fixed;
   left: 0px;
   top: 0px;
-  border-radius:15px;
+  border-radius:30px;
 }
 .s{
   position: fixed;
   left: 0px;
   top: 62px;
-  border-radius:15px;
+  border-radius:30px;
 }
 .stop{
   position: fixed;
@@ -22,6 +22,6 @@ a {
 
 }
 .cr{
-border-radius:30px;
+border-radius:50px;
 
 }
