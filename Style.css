@@ -21,7 +21,7 @@
 }
 
 .s{
-  position: fixed;
+  position: sticky;
   left: 0px;
   top: 62px;
   border-radius:30px;
