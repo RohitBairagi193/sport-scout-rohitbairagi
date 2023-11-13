@@ -25,3 +25,7 @@ a {
 border-radius:40px;
 
 }
+table {
+    border:1;
+    border-color:gray;
+}
