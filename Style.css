@@ -1,4 +1,7 @@
-
+header{
+  position:relative;
+  z-index:1;
+}
 .cr {
   border-radius: 50px;
   border-color: gray;
